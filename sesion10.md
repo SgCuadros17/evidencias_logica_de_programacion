@@ -77,8 +77,8 @@ public class IMC {
 }
 ```
 El IMC es una medida de la grasa corporal basada en la altura y el peso de una persona. Se calcula dividiendo el peso de una persona en kilogramos por el cuadrado de su altura en metros.
-El programa primero importa la clase Scanner de la biblioteca java.util. La clase Scanner se utiliza para obtener la entrada del usuario. El programa luego define una clase llamada IMC con un método principal. El método principal es el punto de entrada del programa.
-El método principal primero crea un objeto Scanner para obtener la entrada del usuario. Luego, solicita al usuario que ingrese su peso en kilogramos y su altura en metros. El programa luego usa la clase Math para calcular el IMC de la persona. Finalmente, el programa muestra el IMC de la persona en la consola.
+El programa primero importa la clase `Scanner` de la biblioteca `java.util.` La clase `Scanner` se utiliza para obtener la entrada del usuario. El programa luego define una clase llamada IMC con un método principal. El método principal es el punto de entrada del programa.
+El método principal primero crea un objeto `Scanner` para obtener la entrada del usuario. Luego, solicita al usuario que ingrese su peso en kilogramos y su altura en metros. El programa luego usa la clase `Math` para calcular el IMC de la persona. Finalmente, el programa muestra el IMC de la persona en la consola.
 
 
 
