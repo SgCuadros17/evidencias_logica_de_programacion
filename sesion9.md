@@ -3,11 +3,7 @@
 
 ## Sesión 9 
 
-
 <!-- Su documentación aquí -->
-
-
-
 
 
 
